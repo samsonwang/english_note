@@ -1,0 +1,4 @@
+Sitemap: https://samsonwang.github.io/english_note/sitemapindex.xml
+
+User-Agent: *
+Host: samsonwang.github.io
