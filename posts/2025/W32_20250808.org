@@ -7,7 +7,7 @@
 .. link:
 .. description:
 .. type: text
-.. status: draft
+/.. status: draft
 #+END_COMMENT
 #+OPTIONS: num:t
 
