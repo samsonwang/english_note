@@ -3,7 +3,7 @@
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
-ipmort time
+import time
 
 # ! Some settings can be different in different languages.
 # ! A comment stating (translatable) is used to denote those.
