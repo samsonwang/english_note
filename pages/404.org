@@ -1,0 +1,17 @@
+#+BEGIN_COMMENT
+.. title: page not found
+.. slug: 404
+.. date: 2018-08-21 16:00:00 UTC+08:00
+.. tags: page
+.. category: page
+.. hidetitle: True
+.. nocomments: True
+.. pretty_url: False
+#+END_COMMENT
+
+#+HTML: <div style="text-align: center; margin: 20vh auto 20vh auto;"><h1>404 Page not found ...</h2><p>It seems that you just got lost ?</p></div>
+
+#+BEGIN_COMMENT
+尝试过BEGIN_EXPORT/END_EXPORT和BEGIN_HTML/END_HTML，它们都会受到org-mode版本（emacs版本）影响。
+最终还是选择HTML这个标签，它在多个版本之间表现都很稳定
+#+END_COMMENT

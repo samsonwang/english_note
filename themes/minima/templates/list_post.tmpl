@@ -1,0 +1,29 @@
+## -*- coding: utf-8 -*-
+<%inherit file="base.tmpl"/>
+<%namespace name="archive_nav" file="archive_navigation_helper.tmpl" import="*"/>
+<%namespace name="feeds_translations" file="feeds_translations_helper.tmpl" import="*"/>
+
+<%block name="extra_head">
+    ${feeds_translations.head(kind=kind, rss_override=False)}
+</%block>
+
+<%block name="content">
+<div class="archive">
+    <header>
+        <h1>${title|h}</h1>
+    </header>
+    ${archive_nav.archive_navigation()}
+    ${feeds_translations.translation_link(kind)}
+    %if posts:
+    <ul class="archive-list">
+    % for post in posts:
+      <li>
+        <time class="date" datetime="${post.formatted_date('webiso')}">${post.formatted_date(date_format)|h}</time><a href="${post.permalink()}" class="title">${post.title()|h}</a>
+      </li>
+    % endfor
+    </ul>
+    %else:
+    <p>${messages("No posts found.")}</p>
+    %endif
+</div>
+</%block>

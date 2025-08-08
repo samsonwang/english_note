@@ -1,0 +1,76 @@
+#+BEGIN_COMMENT
+.. title: Week32 Friday
+.. slug: W32_20250808
+.. date: 2025-08-08 10:02:27 UTC+08:00
+.. tags: W32
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: Week32 Friday
+
+** mitigate
+[ˈmɪtɪgeɪt]
+(v.) - make less severe
+Planting trees helps mitigate the effects of climate change.
+
+
+** proliferation
+[prəˌlɪfəˈreɪʃn]
+(n.) - rapid increase
+The proliferation of fast food has contributed to health problems.
+
+
+** precarious
+[prɪˈkeəriəs]
+(adj.) - dangerously unstable
+Many workers face precarious employment conditions.
+
+
+** corroborate
+[kəˈrɒbəreɪt]
+(v.) - confirm with evidence
+The witness testimony corroborated the defendant's story.
+
+
+** discretionary
+[dɪˈskreʃənəri]
+(adj.) - available for optional use
+The company offers discretionary bonuses for exceptional work.
+
+
+** exemplary
+[ɪgˈzempləri]
+(adj.) - serving as a desirable model
+The student showed exemplary behavior throughout the year.
+
+
+** facilitate
+[fəˈsɪlɪteɪt]
+(v.) - make easier
+Technology facilitates global communication.
+
+
+** inconsequential
+[ɪnˌkɒnsɪˈkwenʃl]
+(adj.) - unimportant
+The spelling mistake was inconsequential to the overall meaning.
+
+
+** novel
+[ˈnɒvl]
+(adj.) - new and original
+The scientist proposed a novel approach to the problem.
+
+
+** stringent
+[ˈstrɪndʒənt]
+(adj.) - strict and precise
+The university has stringent admission requirements.
+
+
+（全文完）

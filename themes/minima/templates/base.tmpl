@@ -1,0 +1,127 @@
+## -*- coding: utf-8 -*-
+<%namespace name="helper" file="base_helper.tmpl" />
+
+${set_locale(lang)}
+
+${helper.html_head_start()}
+
+<%block name="extra_head">
+## Leave this block alone.
+## For inheritance use.
+</%block>
+
+${template_hooks['extra_head']()}
+
+${helper.html_head_end()}
+
+## <body class="preload">
+<body>
+## header
+  <header class="site-header nav-custom">
+    <div class="wrapper">
+      <a class="site-title" rel="author" href="/">${blog_title|h}</a>
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger">
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <use href="/assets/svg/theme.svg#menu-icon"></use>
+            </svg>
+          </span>
+        </label>
+        <div class="trigger">
+          ${helper.html_navigation_links_entries(navigation_links)}
+        </div>
+      </nav>
+    </div>
+  </header>
+
+## main
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+
+    ${template_hooks['page_header']()}
+
+    <%block name="content"></%block>
+
+    <%block name="pagination"></%block>
+
+    <%block name="comment"></%block>
+
+    </div>
+    ## main wrapper ends here
+  </main>
+
+## footer
+  <footer class="site-footer h-card">
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+
+        <div class="footer-col">
+          <p class="site-desc">${blog_description|h}</p>
+        </div>
+
+        <div class="footer-col">
+          <div class="p-name">${blog_author|h}</div>
+##          <div class="u-email"><a href="mailto:${blog_email|h}">${blog_email|h}</a></div>
+        %if theme_config.get('blog_copyright'):
+          <div class="copyright">${theme_config.get('blog_copyright')|h}</div>
+        %endif
+          <div class="social-links">
+            <ul class="social-media-list">
+              <li><a rel="me" href="/rss.xml">
+                <svg class="svg-icon grey"><use href="/assets/svg/social-icons.svg#rss"></use></svg>
+              </a></li>
+            % if theme_config.get('github'):
+              <li><a rel="nofollow" href="https://github.com/${theme_config.get('github')}">
+                <svg class="svg-icon grey"><use href="/assets/svg/social-icons.svg#github"></use></svg>
+              </a></li>
+            % endif
+            % if theme_config.get('twitter'):
+              <li><a rel="nofollow" href="https://twitter.com/${theme_config.get('twitter')}">
+                <svg class="svg-icon grey"><use href="/assets/svg/social-icons.svg#twitter"></use></svg>
+              </a></li>
+            % endif
+            % if theme_config.get('facebook'):
+              <li><a rel="nofollow" href="https://facebook.com/${theme_config.get('facebook')}">
+                 <svg class="svg-icon grey"><use href="/assets/svg/social-icons.svg#facebook"></use></svg>
+              </a></li>
+            % endif
+            </ul>
+          </div>
+          ## social links ends here
+
+        </div>
+        ## footer col ends here
+
+      </div>
+      ## footer col wrapper ends here
+
+    </div>
+    ## footer wrapper ends here
+
+  </footer>
+  ## footer ends here
+
+
+<div id="scroll-top" title="back to top">
+  <div id="scroll-top-arrow"></div>
+  <div id="scroll-top-stick"></div>
+</div>
+
+${helper.late_load_js()}
+
+##<!-- fancy dates -->
+##<script>
+##  moment.locale("${momentjs_locales[lang]}");
+##  fancydates(${date_fanciness}, ${js_date_format});
+##</script>
+##<!-- end fancy dates -->
+
+<%block name="extra_js"></%block>
+
+${body_end}
+${template_hooks['body_end']()}
+
+</body>
+</html>

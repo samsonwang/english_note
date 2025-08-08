@@ -1,0 +1,8 @@
+
+* personal blog site
+
+the blog is powered by nikola
+
+source files are in source branch of this repo
+
+

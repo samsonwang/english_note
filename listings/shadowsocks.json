@@ -1,0 +1,16 @@
+{
+    "server":"your-server-ip",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "port_password":
+    {
+        "32366":"shadowsocks",
+        "32367":"shadowsocks",
+        "32368":"shadowsocks",
+        "32369":"shadowsocks",
+        "52369":"shadowsocks"
+    },
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open": false
+}

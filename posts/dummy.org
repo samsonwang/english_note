@@ -1,0 +1,37 @@
+#+BEGIN_COMMENT
+.. title: dummy
+.. slug: dummy
+.. date: 2018-12-30 22:03:46 UTC+08:00
+.. tags: dummy
+.. category:
+.. link:
+.. description:
+.. type: text
+.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: dummy
+
+lrensm proen[fn:1] dsatm[fn:2]
+
+** orgmode tests
+
+source code block
+
+#+begin_src cpp
+int i = 0;
+#+end_src
+
+
+quote block
+
+#+begin_quote
+content
+#+end_quote
+
+
+** 参考资料
+[fn:1] The link is: https://orgmode.org
+[fn:2] lalala
+

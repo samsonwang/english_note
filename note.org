@@ -1,0 +1,22 @@
+
+** 进行中的题目
+- 信号，sigprocmask，多线程信号处理
+
+
+** 未开始的题目
+
+*** 逗号运算符，逗号运算的优先级比赋值运算符的优先级低
+
+*** spin lock 与 thread sleep
+自旋锁（spin lock）与 while(true) 的写法是不同的，虽然它们的解释形式可能看起来更加相近
+https://stackoverflow.com/questions/1957398/what-exactly-are-spin-locks
+
+大部分情况下，使用自旋锁并不会提高性能，自旋锁适用的情景比较有限
+https://stackoverflow.com/questions/1456225/spinlocks-how-useful-are-they
+
+在 linux 中的自旋锁用法示例
+https://docs.oracle.com/cd/E26502_01/html/E35303/ggecq.html
+https://tuxthink.blogspot.com/2013/06/using-spinlock-in-linux-example.html?m=1
+
+在 thread sleep 之后发生了什么
+https://stackoverflow.com/questions/2297837/what-exactly-happens-when-sleeping-a-thread
