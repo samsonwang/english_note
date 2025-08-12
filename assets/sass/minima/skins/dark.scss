@@ -4,7 +4,12 @@ $brand-color:           #999999 !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;
 
-$site-title-color:      $brand-color-light !default;
+$site-title-color:      $brand-color-dark !default;
+
+$skin-color-01:         #02325f !default;
+$skin-color-02:         #033C73 !default;
+$skin-color-03:         #04519b !default;
+$skin-color-04:         #2fa4e7 !default;
 
 $text-color:            #bbbbbb !default;
 $background-color:      #181818 !default;

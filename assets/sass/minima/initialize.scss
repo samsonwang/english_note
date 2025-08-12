@@ -52,7 +52,8 @@ $on-large:         $on-laptop !default;
 }
 
 @mixin square-background {
-  background-image: linear-gradient(to bottom,transparent 90%,#f8f8f8 10%), linear-gradient(to right,transparent 90%,#f8f8f8 10%);
+  background-image: linear-gradient(to bottom, transparent 90%, $code-background-color 10%),
+                    linear-gradient(to right, transparent 90%, $code-background-color 10%);
   background-size: 10px 10px,10px 10px;
 }
 
@@ -60,6 +61,6 @@ $on-large:         $on-laptop !default;
 @import
 "custom-variables", // Hook to override predefined variables.
 "base",             // Defines element resets.
-"layout",            // Defines structure and style based on CSS selectors.
+"layout",           // Defines structure and style based on CSS selectors.
 "custom-styles"     // Hook to override existing styles.
 ;

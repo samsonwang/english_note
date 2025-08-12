@@ -8,9 +8,9 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   // nav bar background
-  background-image: linear-gradient($cerulean-blue-03,
-                                    $cerulean-blue-02 60%,
-                                    $cerulean-blue-01);
+  background-image: linear-gradient($skin-color-03,
+                                    $skin-color-02 60%,
+                                    $skin-color-01);
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -41,9 +41,9 @@
   border: 1px solid rgba(255,255,255,.3);//$border-color-02;
   border-radius: 5px;
   text-align: right;
-  background-image: linear-gradient($cerulean-blue-03,
-                                    $cerulean-blue-02 60%,
-                                    $cerulean-blue-01);
+  background-image: linear-gradient($skin-color-03,
+                                    $skin-color-02 60%,
+                                    $skin-color-01);
 
   .nav-trigger {
     display: none;
@@ -56,7 +56,7 @@
     line-height: 0;
     padding-top: 10px;
     text-align: center;
-    fill: $nav-icon-color;
+    fill: $site-title-color;
 
     // > svg path {
     //   fill: $site-nav-color;
@@ -85,7 +85,7 @@
 
   .page-link {
     @include text-glow;
-    color: $nav-link-color;
+    color: $site-title-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -134,11 +134,11 @@
 .nav-custom {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  -webkit-transform: translate3d(0,100%,0);
-  -moz-transform: translate3d(0,100%,0);
-  -ms-transform: translate3d(0,100%,0);
-  -o-transform: translate3d(0,100%,0);
-  transform: translate3d(0,100%,0);
+  -webkit-transform: translate3d(0,95%,0);
+  -moz-transform: translate3d(0,95%,0);
+  -ms-transform: translate3d(0,95%,0);
+  -o-transform: translate3d(0,95%,0);
+  transform: translate3d(0,95%,0);
   -webkit-transition: -webkit-transform .3s;
   -moz-transition: -moz-transform .3s;
   transition: transform .3s;
@@ -593,7 +593,7 @@ sup {
 
   .badge {
     color: $text-color;
-    border: 1px solid $border-color-04;
+    border: 1px solid $border-color-02;
     border-radius: 999rem;
     padding: 3px 15px 5px;
     text-decoration: none;
@@ -668,7 +668,7 @@ sup {
   z-index: 99999;
   border: none;
   outline: none;
-  background-color: $cerulean-blue-04;
+  background-color: $skin-color-04;
   color: white;
   cursor: pointer;
   padding: 5px;
