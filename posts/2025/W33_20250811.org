@@ -1,0 +1,77 @@
+#+BEGIN_COMMENT
+.. title: Week33 Monday
+.. slug: W32_20250811
+.. date: 2025-08-11 10:02:27 UTC+08:00
+.. tags: W33
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+/.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: Week33 Monday
+
+** ubiquitous
+[ /ju:ˈbɪkwɪtəs/ ]
+(v.) - present everywhere
+Smartphones have become ubiquitous in modern society.
+
+
+** exacerbate 
+[ /ɪgˈzæsəbeɪt/ ]
+(v.) - to make a problem worse
+Poor urban planing exacerbates traffic congestion.
+
+
+** ephemeral
+[ /ɪˈfemərəl/ ]
+(adj.) - lasting for a very short time
+Social media trends are often ephemeral.
+
+
+** pragmatic
+[ /prægˈmætɪk/ ]
+(v.) - dealing with things sensibly and realistically
+A pragmatic approach to education focus on practical skills.
+
+
+** resilient
+[ /rɪˈzɪliənt/ ]
+(adj.) - able to recover from difficulties
+Children are often more resilient than adults think.
+
+
+** detrimental
+[ /ˌdetrɪˈmentl/ ]
+(adj.) - harmful or damaging
+Lack of sleep can be detrimental to health.
+
+
+** inevitable
+[ /ɪnˈevɪtəbl/ ]
+(adj.) - certain to happen, unavoidable
+Technological advancement is inevitable in the 21st centuary.
+
+
+** conducive
+[ /kənˈdju:sɪv/ ]
+(adj.) - making a certain situation likely or possible.
+A quiet environment is conducive to effective studying.
+
+
+** paradigm
+[ /ˈpærədaɪm/ ]
+(n.) - typical example or pattern
+The internet caused a paradigm shift in communication.
+
+
+** precursor
+[ /pri:ˈkɜ:sə(r)/ ]
+(n.) - something that comes before
+The telegraph was a precursor to modern communications.
+
+
+
+（全文完）

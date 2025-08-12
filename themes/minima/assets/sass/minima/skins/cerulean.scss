@@ -4,35 +4,30 @@ $brand-color:           #828282 !default;
 $brand-color-light:     lighten($brand-color, 40%);
 $brand-color-dark:      darken($brand-color, 25%);
 
-$cerulean-blue-01:      #02325f !default;
-$cerulean-blue-02:      #033C73 !default;
-$cerulean-blue-03:      #04519b !default;
-$cerulean-blue-04:      #2fa4e7 !default;
-
 $site-title-color:      $brand-color-light !default;
-$nav-link-color:        $site-title-color !default;
-$nav-icon-color:        $site-title-color !default;
-//$nav-icon-border-color: rgba(255,255,255,.5);
 
 $text-color:            #333333 !default;
 $background-color:      #fdfdfd !default;
 $code-background-color: #f5f5f9 !default;
 
-$link-base-color:       $cerulean-blue-03 !default;
+$skin-color-01:         #02325f !default;
+$skin-color-02:         #033C73 !default;
+$skin-color-03:         #04519b !default;
+$skin-color-04:         #2fa4e7 !default;
+
+$link-base-color:       $skin-color-03 !default;
 $link-visited-color:    $link-base-color !default;
-$link-hover-color:      $cerulean-blue-04 !default;
+$link-hover-color:      $skin-color-04 !default;
 
 $border-color-01:       $brand-color-light !default;
 $border-color-02:       lighten($brand-color, 25%) !default;
 $border-color-03:       lighten($brand-color, 15%) !default;
-$border-color-04:       darken($brand-color, 15%) !default;
 
 $table-text-color:      lighten($text-color, 18%) !default;
 $table-zebra-color:     lighten($brand-color, 46%) !default;
 $table-header-bg-color: lighten($brand-color, 43%) !default;
 $table-header-border:   lighten($brand-color, 37%) !default;
 $table-border-color:    $border-color-01 !default;
-
 
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"

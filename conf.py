@@ -959,12 +959,12 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = ""
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "samsonwang-blog"
+COMMENT_SYSTEM_ID = ""
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
@@ -1212,29 +1212,7 @@ USE_BUNDLES = False
 # (translatable)
 # BODY_END = ""
 BODY_END = """
-<!-- google adsense -->
-<script data-ad-client="ca-pub-6303134192857919" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<!-- Google Analytics - Global site tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108507797-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-108507797-1');
-</script>
 """
-
-# <!-- baidu tongji -->
-# <script>
-# var _hmt = _hmt || [];
-#(function() {
-#  var hm = document.createElement("script");
-#  hm.src = "https://hm.baidu.com/hm.js?1dcffb5494ab56e69005c957d7320ad1";
-#  var s = document.getElementsByTagName("script")[0];
-#  s.parentNode.insertBefore(hm, s);
-#})();
-#</script>
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
