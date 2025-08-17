@@ -1,0 +1,82 @@
+#+BEGIN_COMMENT
+.. title: W33 Tuseday
+.. slug: W33_20250812
+.. date: 2025-08-12 17:45:32 UTC+08:00
+.. tags: W33
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+/.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W33 Tuesday
+
+** palatable
+[ /ˈpælətəbl/ ]
+(adj.) (of food or drink) pleasant to taste.
+This is a very palatable local red wine.
+
+
+** ounce
+[ /ouns/ ]
+(n.) a unit of weight of one sixteenth of a pound avoirdupois (approximately 28 grams).
+Melt three ounces of butter in a large frying pan.
+
+
+** naringin
+[ /na·​rin·​gin/ ]
+柚苷，柚皮苷
+(n.) Naringin is a flavonoid, specifically a flavanone glycoside, found in citrus fruits like grapefruit, and known for its bitter taste.
+
+
+** antioxidant
+[ /ˌæntiˈɒksɪdənt/ ]
+(n.) a substance that inhibits oxidation, especially one used to counteract the deterioration of stored food products
+An antioxidant is a substance that prevents or slow down oxidation, a chemical reaction that produces harmful free radicals.
+
+
+** arteriosclerosis
+[ /ɑ:ˌtɪəriəʊskləˈrəʊsɪs/ ]
+(n.) Arteriosclerosis is a type of vascular disease where the blood vessels carrying oxygen away from the heart (arteries) become damaged from factors such as high cholesterol, high blood pressure, diabetes and certain genetic influences.
+
+** miniature
+[ /ˈmɪnətʃə(r)/ ]
+(adj.) (especially of a replica of something) of a much smaller size than normal; very small.
+Children dressed as miniature adults.
+
+(n.) a thing that is much smaller than normal, especially a small replica or model.
+Seven full-size car bodies and three miniatures were used.
+
+(v.) represent on a smaller scale; reduce to miniature dimensions.
+She saw her own reflection miniatured.
+
+
+** cleanse
+[ /klenz/ ]
+(vt.) to rid of impurities by or as if by washing
+It's that mystical state most athletes are lucky to achieve a few times in their careers. The mind is cleansed. The body is free.
+
+
+** citrus
+[ /cit·​rus/ ]
+(n.) any of a group of often thorny trees and shrubs (Citrus and related genera) of the rue family grown in warm regions for their edible fruit (such as the orange or lemon) with firm usually thick rind and pulpy flesh.
+Go back in time and connect with nature at Neapolis Archeological Park, which has an ancient Greek theater, Roman amphitheater, and centuries-old citrus trees.
+
+
+** cruciferous
+[ /ˈkrüsəfər / ]
+(n.) any of a family (Brassicaceae synonym Cruciferae) of plants including the cabbage, turnip, and mustard
+十字花科的
+brussel sprout 芽球甘蓝
+
+
+** quinine
+[ /ˈkwīˌnīn/ ]
+(n.) a salt of quinine used especially as an antipyretic, antimalarial, and bitter tonic
+奎宁
+Tonic water is sweetend soda that contains bitter-tasting chemcial compound called quinie.
+
+
+（全文完）
