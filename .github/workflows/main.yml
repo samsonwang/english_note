@@ -16,7 +16,7 @@ jobs:
         git config --global user.email 'wangzhilv@gmail.com'
         git fetch origin master
     - name: setup emacs
-      uses: purcell/setup-emacs@v6.0
+      uses: purcell/setup-emacs@master
       with:
         version: 26.3
     - name: setup nikola
