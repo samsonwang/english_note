@@ -1,0 +1,83 @@
+#+BEGIN_COMMENT
+.. title: W34 Monday
+.. slug: W34_20250818
+.. date: 2025-08-18 09:56:39 UTC+08:00
+.. tags: W34
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+/.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W34 Monday
+
+** dampen
+[ /ˈdampən/ ]
+(vt.) to check or diminish the activity or vigor
+The heat dampened our spirits.
+
+
+** cull
+[ /ˈkəl/ ]
+(v.) to select from a group
+Damaged fruits are culled before the produce is shipped.
+
+(v.) to reduce or control the size of (something, such as a herd) by removal (as by hunting or slaughter) of especially weak or sick individuals
+The town issued hunting licenses in order to cull the deer population.
+
+
+** sodium
+[ /ˈsō-dē-əm/ ]
+(n.) a silver-white soft waxy ductile element of the alkali metal group with atomic number 11 that occurs abundantly in nature in combined form and is very active chemically
+钠
+
+alkali 碱
+sodium chloride 氯化钠，chloride 氯化物
+
+
+** amino
+[ /əˈmēˌnō/ ]
+(adj.) relating to, being, or containing an amine group
+氨基
+amino acid 氨基酸
+ 
+
+** protein
+[ /ˈprōˌtēn/ ]
+(n.) any of various naturally occurring extremely complex substances that consist of amino-acid residues joined by peptide bonds, contain the elements carbon, hydrogen, nitrogen, oxygen, usually sulfur, and occasionally other elements (such as phosphorus or iron), and include many essential biological compounds (such as enzymes, hormones, or antibodies)
+蛋白质
+
+
+** antihistamine
+[ /ˌantēˈhistəˌmēn/ ]
+(n.) any of various compounds that counteract histamine in the body and that are used for treating allergic reactions (such as hay fever) and cold symptoms
+抗组胺药
+
+
+** sprinkle
+[ /ˈspriŋkəl/ ]
+(v.) to scatter in drops or particles
+He sprinkled water on the plants.
+
+
+** clump
+[ /ˈkləmp/ ]
+(n.) a group of things clustered together
+There is a clump of bushes at the edge of the field.
+
+
+** dietetics
+[ /ˌdīəˈtetiks/ ]
+(n.) the science or art of applying the principles of nutrition to the diet
+营养学
+
+
+** shun
+[ /ˈshən/ ]
+(v.) to avoid deliberately and especially habitually
+He shuns parties and social events.
+
+
+（全文完）

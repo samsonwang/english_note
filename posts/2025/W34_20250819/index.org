@@ -1,0 +1,90 @@
+#+BEGIN_COMMENT
+.. title: W34 Tuesday
+.. slug: W34_20250819
+.. date: 2025-08-18 17:55:44 UTC+08:00
+.. tags: W34
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+/.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W34 Tuesday
+
+** ostentatious
+[ /ˌästənˈtāshəs/ ]
+(adj.) Ostentatious describes someone or something that displays wealth, knowledge, power, etc., in a way that is meant to attract attention, admiration, or envy. Things that are ostentatious tend to stand out as overly elaborate or conspicuous.
+
+The resort town is famous for its extravagantly expensive summer homes, which some tourists view as impressive and others merely ostentatious.
+
+
+** ductile
+[ /ˈdəktəl/ ]
+(adj.) capable of being drawn out into wire or thread; easily led or influenced; capable of being fashioned into a new form.
+
+The web-like blue and gold dial is housed in a 40mm case made of tantalum, a very hard, ductile, lustrous, blue-gray transition metal that is highly corrosion-resistant.
+例句中的 dail 在这里的含义是表盘。
+
+
+** synonym
+[ /ˈsinəˌnim/ ]
+(n.) one of two or more words or expressions of the same language that have the same or nearly the same meaning in some or all senses.
+
+The debris hurtled by so fast that the New York Times editorial page seemed to run out of synonyms for disgust, revulsion and abuse.
+
+
+** corrosion
+[ /kəˈrōzhən/ ]
+(n.) the action, process, or effect of corroding
+
+The corrosion of family values that is often brought on by great wealth.
+
+
+** lustrous
+[ /ˈləstrəs/ ]
+(adj.) reflecting light evenly and efficiently without glitter or sparkle
+
+The lustrous finish on the satin bedspread adds to the feeling of luxury.
+
+
+** debris
+[ /dəˈbrē/ ]
+(n.) the remains of something broken down or destroyed.
+
+After the earthquake, rescuers began digging through the debris in search of survivors.
+
+
+** extravagantly
+[ /ikˈstravigənt/ ]
+(adj.) exceeding the limits of reason or necessity
+
+The company has been making extravagant claims about the drug's effectiveness.
+
+
+** conspicuous
+[ /kənˈspikyəwəs/ ]
+(adj.) obvious to the eye or mind
+
+There were a number of conspicuous changes to the building.
+
+
+** prominent
+[ /ˈprämənənt/ ]
+(adj.) standing out or projecting beyond a surface or line
+
+He quickly became prominent in the music industry.
+
+
+** leverage
+[ /ˈlevərij/ ]
+(n.) the action of a lever or the mechanical advantage gained by it
+(vt.) to provide (something, such as a corporation) or supplement (something, such as money) with leverage
+
+The union's size gave it leverage in the labor contract negotiations.
+The company wants to leverage its brands more effectively.
+
+
+（全文完）
+
