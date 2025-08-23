@@ -19,6 +19,8 @@
 
 The resort town is famous for its extravagantly expensive summer homes, which some tourists view as impressive and others merely ostentatious.
 
+{{{TEASER_END}}}
+
 
 ** ductile
 [ /ˈdəktəl/ ]
@@ -26,6 +28,8 @@ The resort town is famous for its extravagantly expensive summer homes, which so
 
 The web-like blue and gold dial is housed in a 40mm case made of tantalum, a very hard, ductile, lustrous, blue-gray transition metal that is highly corrosion-resistant.
 例句中的 dail 在这里的含义是表盘。
+
+{{{TEASER_END}}}
 
 
 ** synonym
