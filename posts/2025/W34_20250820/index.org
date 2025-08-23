@@ -1,0 +1,115 @@
+#+BEGIN_COMMENT
+.. title: W34 Wednesday
+.. slug: W34_20250820
+.. date: 2025-08-20 08:51:30 UTC+08:00
+.. tags: W34
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+/.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W34 Wednesday
+
+** euphemism
+[ /ˈyü-fə-ˌmi-zəm/ ]
+(n.) the substitution of an agreeable or inoffensive expression for one that may offend or suggest something unpleasant.
+
+Cougar is the euphemism for a woman who has reached mid-life, who is single, financially secure and on the lookout for relationships with younger men—as in "prey."
+
+cougar 美洲狮
+{{{TEASER_END}}}
+
+
+** intriguing
+[ / inˈtrēgiŋ/ ]
+(adj.) engaging the interest to a marked degree.
+
+Nationally, the story will be mostly about Sanders, an intriguing figure once thought to be a sure first-round pick after starring for his father’s team at Colorado.
+
+
+** perish
+[ /ˈper-ish/ ]
+(v.) to become destroyed or ruined
+
+Two people perished in the fire.
+
+
+** admiralty
+[ /ˈadm(ə)rəltē/ ]
+(n.) the executive department or officers formerly having general authority over British naval affairs
+海军部
+
+What was once confined to admiralty and customs skyrocketed when it was expanded to everyday use in the 1980s during the War on Drugs.
+
+
+** erebus
+[ /ˈerəbəs/ ]
+(n.) a personification of darkness in Greek mythology
+a place of darkness in the underworld on the way to Hades
+
+
+** inuit
+[ /ˈin(y)üwət/ ]
+(n.) a group of Indigenous peoples of northern Alaska, arctic Canada, and Greenland —used especially for those of the Canadian Arctic and Greenland
+
+In fact, many traditional northern hunter–gatherers such as the Inuit subsisted mostly on animal foods.
+
+
+** forensic
+[ /fəˈren(t)sik/ ]
+(adj.) belonging to, used in, or suitable to courts of judicature or to public discussion and debate.
+
+Court records show that forensic testing did not find evidence that the woman had been drugged.
+
+
+** anthropology
+[ /ˌan(t)thrəˈpäləjē/ ]
+(n.) the science of human beings
+theology dealing with the origin, nature, and destiny of human beings
+
+
+** scurvy
+[ /ˈskərvē/ ]
+(n.) a disease caused by a lack of vitamin C and characterized by spongy gums, loosening of the teeth, and a bleeding into the skin and mucous membranes
+坏血症
+
+
+** surgeon
+[ /ˈsərjən/ ]
+(n.) a medical specialist who practices surgery : a physician trained and qualified to perform surgical procedures
+
+
+** provision
+[ /prəˈvizhən/ ]
+(n.) the fact or state of being prepared beforehand
+a stock of needed materials or supplies
+
+Nothing was overlooked. There was a fallback position, a fail-safe provision, for any contingency.
+
+
+** substantial
+[ /səb-ˈstan(t)-shəl/ ]
+(adj.) consisting of or relating to substance, firmly constructed, considerable in quantity
+
+A substantial number of people commute to work each day.
+
+
+** respiratory
+[ /ˌrespəˈrāshən/ ]
+(n.) the movement of air or dissolved gases into and out of the lungs
+
+Food is converted into energy through digestion, circulation and respiration.
+
+
+** gastrointestinal
+[ /ˌgastrōinˈtestənᵊl / ]
+(n.) of, relating to, affecting, or including both stomach and intestine
+胃肠道
+
+intestine 肠道
+
+（全文完）
+
