@@ -14,7 +14,7 @@
 #+TITLE: W34 Wednesday
 
 ** euphemism
-[ /ˈyü-fə-ˌmi-zəm/ ]
+[ /ˈyüfəˌmizəm/ ]
 (n.) the substitution of an agreeable or inoffensive expression for one that may offend or suggest something unpleasant.
 
 Cougar is the euphemism for a woman who has reached mid-life, who is single, financially secure and on the lookout for relationships with younger men—as in "prey."
@@ -81,35 +81,6 @@ theology dealing with the origin, nature, and destiny of human beings
 [ /ˈsərjən/ ]
 (n.) a medical specialist who practices surgery : a physician trained and qualified to perform surgical procedures
 
-
-** provision
-[ /prəˈvizhən/ ]
-(n.) the fact or state of being prepared beforehand
-a stock of needed materials or supplies
-
-Nothing was overlooked. There was a fallback position, a fail-safe provision, for any contingency.
-
-
-** substantial
-[ /səb-ˈstan(t)-shəl/ ]
-(adj.) consisting of or relating to substance, firmly constructed, considerable in quantity
-
-A substantial number of people commute to work each day.
-
-
-** respiratory
-[ /ˌrespəˈrāshən/ ]
-(n.) the movement of air or dissolved gases into and out of the lungs
-
-Food is converted into energy through digestion, circulation and respiration.
-
-
-** gastrointestinal
-[ /ˌgastrōinˈtestənᵊl / ]
-(n.) of, relating to, affecting, or including both stomach and intestine
-胃肠道
-
-intestine 肠道
 
 （全文完）
 

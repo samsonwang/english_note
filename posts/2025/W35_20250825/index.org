@@ -1,0 +1,71 @@
+#+BEGIN_COMMENT
+.. title: W35 Monday
+.. slug: W35_20250825
+.. date: 2025-08-25 10:39:27 UTC+08:00
+.. tags: W35
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+/.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W35 Monday
+
+** mythology
+[ /miˈthäləjē/ ]
+(n.) the body of customs, beliefs, stories, and sayings associated with a people, thing, or place
+
+Ares is the god of war in Greek mythology.
+
+{{{TEASER_END}}}
+
+
+** impurity
+[ /imˈpyu̇rətē/ ]
+(n.) something that is or that makes impure
+
+impurities in the water made it cloudy
+
+
+** paratrooper
+[ /ˈperəˌtrüpər/ ]
+(n.) troops trained and equipped to parachute from an airplane
+
+paratroops
+
+
+** parachute
+[ /ˈperəˌshüt/ ]
+(v.)  a device for slowing the descent of a person or object through the air that consists of a fabric canopy beneath which the person or object is suspended
+
+The pilot was wearing a parachute.
+
+
+** crop
+[ /ˈkräp/ ]
+(n.) a plant or animal or plant or animal product that can be grown and harvested extensively for profit or subsistence
+(v.) to remove the upper of outer parts of
+
+Tobacco is their main crop.
+Her hair was cropped short.
+
+
+** closure
+[ /ˈklōzhər/ ]
+(n.) an act of closing : the condition of being closed
+an often comforting or satisfying sense of finality
+
+I need to talk to him and get some closure on this issue.
+
+
+** canopy
+[ /ˈkanəpē/ ]
+(n.) a cloth covering suspended over a bed, an ornamental rooflike structure
+
+A canopy hung over the altar.
+
+
+（全文完）
+
