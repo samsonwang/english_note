@@ -1,0 +1,72 @@
+#+BEGIN_COMMENT
+.. title: W34 Thursday
+.. slug: W34_20250821
+.. date: 2025-08-21 09:27:23 UTC+08:00
+.. tags: W34
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W34 Thursday
+
+** substantial
+[ /səbˈstan(t)shəl/ ]
+(adj.) consisting of or relating to substance
+ample to satisfy and nourish
+considerable in quantity
+
+A substantial number of people commute to work each day.
+
+{{{TEASER_END}}}
+
+
+** respiration
+[ /ˌrespəˈrāshən/ ]
+(n.) the movement of air or dissolved gases into and out of the lungs
+
+Food is converted into energy through digestion, circulation and respiration.
+
+respiratory
+[ /ˈresp(ə)rəˌtȯrē/ ]
+(adj.)
+
+
+** gastrointestinal
+[ /ˌgastrōinˈtestənᵊl / ]
+(n.) of, relating to, affecting, or including both stomach and intestine
+胃肠道
+
+intestine 肠道
+
+
+** cardiovascular
+[ /ˌkärdēōˈvaskyələr/ ]
+(adj.) of, relating to, or involving the heart and blood vessels
+used, designed, or performed to cause a temporary increase in heart rate
+
+running, swimming, and other cardiovascular exercises
+
+
+** salient
+[ /ˈsālyənt / ]
+(adj.) moving by leaps or springs; jetting forward; projecting beyond a line, surface, or level
+
+A 2002 study conducted at the University of Illinois by Diener and Seligman found that the most salient characteristics shared by the 10% of students with the highest levels of happiness and the fewest signs of depression were their strong ties to friends and family and commitment to spending time with them.
+
+
+** provision
+[ /prəˈvizhən/ ]
+(n.) the fact or state of being prepared beforehand
+a stock of needed materials or supplies
+
+Nothing was overlooked. There was a fallback position, a fail-safe provision, for any contingency.
+
+
+
+（全文完）
+
+

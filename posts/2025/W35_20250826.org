@@ -1,0 +1,98 @@
+#+BEGIN_COMMENT
+.. title: W35 Tuesday
+.. slug: W35_20250826
+.. date: 2025-08-26 08:55:12 UTC+08:00
+.. tags: W35
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+/.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W35 Tuesday
+
+** apathy
+[ /ˈapəthē/ ]
+(n.) lack of feeling or emotion, lack of interest or concern.
+
+Drug abuse leading to apathy and depression.
+
+
+{{{TEASER_END}}}
+
+
+** leniency
+[ /ˈlēnēən(t)sē/ ]
+(n.) the quality or state of being lenient
+
+lenient
+(adj.) of mild and tolerant disposition or effect, not harsh, severe, or strict
+
+The defense requested leniency in light of their client's lack of a prior criminal record.
+
+
+** solivagant
+[ /sōˈlivəgənt/ ]
+(n.) a solitary wanderer
+(adj.) rambling alone, marked by solitary wandering
+独居者
+
+
+** solitary
+[ /ˈsäləˌterē/ ]
+(adj.) being, living, or going alone or without companions
+(n.) one who lives or seeks to live a solitary life
+
+He took a solitary walk on the beach.
+The prisoner was kept in solitary.
+
+
+** glitch
+[ /ˈglich/ ]
+(n.) a usually minor malfunction, a false or spurious electronic signal
+
+Glitches in the speaker's schedule caused some delays.
+
+
+** tempestuous
+[ /temˈpeschəwəs/ ]
+(adj.) of, relating to, or resembling a tempest
+
+Order was restored to the court after the judge put a stop to the defendant's tempestuous outburst.
+
+
+** tempest
+[ /ˈtempəst/ ]
+(n.) a violent storm
+(v.) to raise a tempest in or around
+
+The sudden summertime tempest drove us off the golf course and into the clubhouse.
+
+
+** flagrant
+[ /ˈflāgrənt/ ]
+(adj.) conspicuously offensive, something may be described as flagrant if it is conspicuously bad—that is, too bad to be ignored.
+
+Her flagrant disregard for other people's rights.
+
+
+** cloister
+[ /ˈklȯistər/ ]
+(n.) a monastic establishment, an area within a monastery or convent to which the religious are normally restricted
+修道院，回廊
+
+(v.) to seclude from the world in or as if in a cloister
+
+monks living in a cloister in the country
+
+
+** undulant
+[ /ˈənjələnt/ ]
+(adj.) rising and falling in waves, having a wavy form, outline, or surface
+
+It is suspended, high in the air, above a line of low, undulant blue hills.
+
+
+（全文完）

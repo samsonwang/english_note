@@ -1,0 +1,78 @@
+#+BEGIN_COMMENT
+.. title: W34 Friday
+.. slug: W34_20250822
+.. date: 2025-08-22 09:44:54 UTC+08:00
+.. tags: W34
+.. category: vocabulary
+.. link:
+.. description:
+.. type: text
+.. status: draft
+#+END_COMMENT
+#+OPTIONS: num:t
+
+#+TITLE: W34 Friday
+
+** customs
+plural of custom,
+duties, tolls, or imposts imposed by the sovereign law of a country on imports or exports
+海关
+
+We went through customs at the airport without any difficulty.
+
+custom
+(n.) a usage or practice common to many or to a particular place or class or habitual with an individual
+
+
+** skyrocket
+[ /ˈskīˌräkət/ ]
+(v.) to cause to rise or increase abruptly and rapidly
+
+His popularity skyrocketed after his latest movie.
+
+
+** indigenous
+[ /inˈdijənəs/ ]
+(adj.) produced, growing, living, or occurring natively or naturally in a particular region or environment
+
+土著
+
+There are several indigenous groups that still live in the area.
+
+
+** subsist
+[ /səbˈsist/ ]
+(v.) to have existance
+to have or acquire the necessities of life (such as food and clothing)
+
+In fact, many traditional northern hunter–gatherers such as the Inuit subsisted mostly on animal foods.
+
+
+** wheedle
+[ /ˈ(h)wē-dᵊl/ ]
+(v.) to influence or entice by soft words or flattery
+
+She pleaded and wheedled, but I wouldn't be swayed.
+
+
+** tubercular
+[ /tu̇ˈbərkyələr/ ]
+(adj.) of, relating to, or affected with tuberculosis
+
+The filmmaker uses an animation of tubercular bacteria periodically in the film to suggest Orwell’s advancing illness.
+
+结核病
+
+
+** terrain
+[ /təˈrān / ]
+(n.) a region of activity, knowledge, or influence
+the physical features of a region as a whole
+
+an analysis of the terrain revealed that an invasion force of paratroopers would have their work cut out for them
+
+
+（全文完）
+
+
+
